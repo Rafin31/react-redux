@@ -1,0 +1,7 @@
+1. yarn create vite
+2. yarn add / npm install @redux/toolkit react-redux
+3. install talwind
+4. Create folder "redux"
+5.create store.js inside redux folder
+6. create feature folder
+7. inside create slice. ex: counterSlice.js
